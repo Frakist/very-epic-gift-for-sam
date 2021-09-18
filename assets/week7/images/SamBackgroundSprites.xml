@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SamBackgroundSprites.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SamIdle0000" x="0" y="0" width="435" height="388"/>
+	<SubTexture name="SamIdle0001" x="435" y="0" width="426" height="375" frameX="-1" frameY="-5" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0002" x="861" y="0" width="416" height="362" frameX="-8" frameY="-11" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0003" x="1277" y="0" width="399" height="343" frameX="-15" frameY="-21" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0004" x="0" y="388" width="380" height="324" frameX="-24" frameY="-26" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0005" x="0" y="388" width="380" height="324" frameX="-24" frameY="-26" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0006" x="0" y="388" width="380" height="324" frameX="-24" frameY="-26" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0007" x="0" y="388" width="380" height="324" frameX="-24" frameY="-26" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0008" x="0" y="388" width="380" height="324" frameX="-24" frameY="-26" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0009" x="0" y="388" width="380" height="324" frameX="-24" frameY="-26" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0010" x="0" y="388" width="380" height="324" frameX="-24" frameY="-26" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0011" x="0" y="388" width="380" height="324" frameX="-24" frameY="-26" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0012" x="0" y="388" width="380" height="324" frameX="-24" frameY="-26" frameWidth="435" frameHeight="388"/>
+	<SubTexture name="SamIdle0013" x="0" y="388" width="380" height="324" frameX="-24" frameY="-26" frameWidth="435" frameHeight="388"/>
+</TextureAtlas>

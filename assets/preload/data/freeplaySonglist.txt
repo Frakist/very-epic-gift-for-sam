@@ -1,0 +1,5 @@
+Tutorial:gf:1:#FF2BE6FF:#FF2BFFC5:#FF2BE6FF
+Interrupted:sam:1:#FFE8E8E8:#FFF4F4F4:#FFFFFFFF
+Insanity:glitchcrack:1:#FF484848:#FF646464:#FF818181
+Onslaught:onslaughter:1:#FF710000:#FF9E3737:#FFD55D5D
+Conquered:bigsam:1:#FF101010:#FF101010:#FF101010

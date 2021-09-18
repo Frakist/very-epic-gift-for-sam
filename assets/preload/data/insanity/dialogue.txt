@@ -1,0 +1,16 @@
+[178[ [179[ [223[ [216[ |sexy music| *100* =1= #normalbox#  <0.08< >4> (0.2( )5) {0.83{ }5} `invis` ~dialogueConfirm~
+:glitchweed: !angerissues! [Callahan[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #angerissues# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      HEY!
+:sam: !waoh! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #angerissues# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      AH!
+:sam: !sad! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      Oh, it's just you, hi Glitch...
+:glitchweed: !angerissues! [Callahan[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      So, I see stealing my fucking blocks and making me lose my shit wasn't enough for you, huh?
+:bf: !damage! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      b-beep...
+:glitchweed: !angerissues! [Callahan[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      So now you've come to wreck the life of all my friends as well?
+:glitchweed: !angerissues! [Callahan[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      So fucking be it
+:sam: !sussyd! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      Can you at least not go as fast
+:glitchweed: !angerissues! [Callahan[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      140 BPM, 2.5 Scroll Speed, Jacks. Sound good, blue-balled fuck?
+:sam: !sussyd! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      Scroll Speed? Jacks? What are you on about?
+:glitchweed: !angerissues! [Callahan[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      Don't worry about it that much.
+:sam: !sussyd! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      Alright i guess...
+:glitchweed: !angerissues! [Callahan[ ]25] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      Time for me to stop fucking around with you, and actually stop you from being a fucking tumor once and for all. If I can't do it in my own application, i'll do it in Sam's
+:sam: !waoh! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #angerissues# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      WHAT ARE YOU ON ABOUT, WHAT APPLICATION?!!?
+:glitchweed: !angerissues! [Callahan[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      You wouldn't get it, just let me handle this already.

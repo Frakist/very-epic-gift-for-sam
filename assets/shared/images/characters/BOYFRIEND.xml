@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlobBFSprites.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlobBFDead0000" x="0" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0001" x="0" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0002" x="478" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0003" x="478" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0004" x="956" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0005" x="956" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0006" x="1434" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0007" x="1434" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0008" x="1912" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0009" x="1912" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0010" x="2390" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0011" x="2390" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0012" x="2390" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0013" x="2390" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDead0014" x="2390" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0000" x="2868" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0001" x="2868" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0002" x="3346" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0003" x="3346" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0004" x="0" y="466" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0005" x="0" y="466" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0006" x="478" y="466" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0007" x="478" y="466" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0008" x="1912" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0009" x="1912" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0010" x="2390" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0011" x="2390" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0012" x="2390" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0013" x="2390" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDied0014" x="2390" y="0" width="478" height="466"/>
+	<SubTexture name="BlobBFDown0000" x="2589" y="932" width="514" height="464" frameX="-14" frameY="-10" frameWidth="528" frameHeight="474"/>
+	<SubTexture name="BlobBFDown0001" x="3103" y="932" width="528" height="471" frameX="0" frameY="0" frameWidth="528" frameHeight="474"/>
+	<SubTexture name="BlobBFIdle0000" x="0" y="1491" width="517" height="456" frameX="0" frameY="-5" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0001" x="0" y="1491" width="517" height="456" frameX="0" frameY="-5" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0002" x="517" y="1491" width="507" height="455" frameX="-5" frameY="-7" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0003" x="517" y="1491" width="507" height="455" frameX="-5" frameY="-7" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0004" x="1024" y="1491" width="495" height="454" frameX="-11" frameY="-10" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0005" x="1024" y="1491" width="495" height="454" frameX="-11" frameY="-10" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0006" x="1519" y="1491" width="485" height="452" frameX="-16" frameY="-12" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0007" x="1519" y="1491" width="485" height="452" frameX="-16" frameY="-12" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0008" x="2004" y="1491" width="485" height="462" frameX="-16" frameY="0" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0009" x="2004" y="1491" width="485" height="462" frameX="-16" frameY="0" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0010" x="2004" y="1491" width="485" height="462" frameX="-16" frameY="0" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0011" x="2004" y="1491" width="485" height="462" frameX="-16" frameY="0" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0012" x="2004" y="1491" width="485" height="462" frameX="-16" frameY="0" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFIdle0013" x="2004" y="1491" width="485" height="462" frameX="-16" frameY="0" frameWidth="517" frameHeight="464"/>
+	<SubTexture name="BlobBFLeft0000" x="2489" y="1491" width="500" height="476" frameX="-11" frameY="-10" frameWidth="518" frameHeight="486"/>
+	<SubTexture name="BlobBFLeft0001" x="2989" y="1491" width="518" height="486"/>
+	<SubTexture name="BlobBFMissDown0000" x="478" y="932" width="519" height="460"/>
+	<SubTexture name="BlobBFMissLeft0000" x="997" y="932" width="505" height="493"/>
+	<SubTexture name="BlobBFMissRight0000" x="1502" y="932" width="550" height="491"/>
+	<SubTexture name="BlobBFMissUp0000" x="2052" y="932" width="537" height="559"/>
+	<SubTexture name="BlobBFRetries0000" x="956" y="466" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0001" x="956" y="466" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0002" x="1434" y="466" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0003" x="1434" y="466" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0004" x="1912" y="466" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0005" x="1912" y="466" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0006" x="2390" y="466" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0007" x="2390" y="466" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0008" x="2868" y="466" width="498" height="466"/>
+	<SubTexture name="BlobBFRetries0009" x="2868" y="466" width="498" height="466"/>
+	<SubTexture name="BlobBFRetries0010" x="3366" y="466" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0011" x="3366" y="466" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0012" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0013" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0014" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0015" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0016" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0017" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0018" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0019" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0020" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0021" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0022" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0023" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRetries0024" x="0" y="932" width="478" height="466" frameX="-20" frameY="0" frameWidth="498" frameHeight="466"/>
+	<SubTexture name="BlobBFRight0000" x="3507" y="1491" width="536" height="470" frameX="-2" frameY="-9" frameWidth="550" frameHeight="479"/>
+	<SubTexture name="BlobBFRight0001" x="0" y="1977" width="550" height="479"/>
+	<SubTexture name="BlobBFUp0000" x="550" y="1977" width="534" height="532" frameX="-5" frameY="-18" frameWidth="545" frameHeight="551"/>
+	<SubTexture name="BlobBFUp0001" x="1084" y="1977" width="545" height="551"/>
+</TextureAtlas>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="madfatass.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GlitchTransform0000" x="0" y="0" width="366" height="379" frameX="-53" frameY="-46" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0001" x="366" y="0" width="366" height="379" frameX="-50" frameY="-46" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0002" x="732" y="0" width="414" height="402" frameX="-44" frameY="-23" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0003" x="1146" y="0" width="414" height="402" frameX="-41" frameY="-23" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0004" x="1560" y="0" width="414" height="402" frameX="-44" frameY="-23" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0005" x="1974" y="0" width="396" height="392" frameX="-47" frameY="-33" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0006" x="2370" y="0" width="421" height="425" frameX="0" frameY="0" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0007" x="2791" y="0" width="381" height="392" frameX="-47" frameY="-33" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0008" x="3172" y="0" width="358" height="374" frameX="-68" frameY="-51" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0009" x="3530" y="0" width="358" height="374" frameX="-62" frameY="-51" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0010" x="0" y="425" width="358" height="374" frameX="-68" frameY="-51" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0011" x="358" y="425" width="358" height="374" frameX="-62" frameY="-51" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="GlitchTransform0012" x="716" y="425" width="358" height="374" frameX="-68" frameY="-51" frameWidth="458" frameHeight="425"/>
+	<SubTexture name="MadGlitchBlobDown0000" x="1074" y="425" width="388" height="352" frameX="0" frameY="0" frameWidth="411" frameHeight="352"/>
+	<SubTexture name="MadGlitchBlobDown0001" x="1462" y="425" width="373" height="326" frameX="-21" frameY="-26" frameWidth="411" frameHeight="352"/>
+	<SubTexture name="MadGlitchBlobDown0002" x="1835" y="425" width="390" height="338" frameX="-21" frameY="-14" frameWidth="411" frameHeight="352"/>
+	<SubTexture name="MadGlitchBlobIdle0000" x="2225" y="425" width="383" height="381" frameX="-2" frameY="-30" frameWidth="390" frameHeight="411"/>
+	<SubTexture name="MadGlitchBlobIdle0001" x="2608" y="425" width="368" height="371" frameX="-9" frameY="-40" frameWidth="390" frameHeight="411"/>
+	<SubTexture name="MadGlitchBlobIdle0002" x="2976" y="425" width="364" height="373" frameX="-13" frameY="-38" frameWidth="390" frameHeight="411"/>
+	<SubTexture name="MadGlitchBlobIdle0003" x="3340" y="425" width="365" height="374" frameX="-12" frameY="-37" frameWidth="390" frameHeight="411"/>
+	<SubTexture name="MadGlitchBlobIdle0004" x="3705" y="425" width="350" height="369" frameX="-20" frameY="-42" frameWidth="390" frameHeight="411"/>
+	<SubTexture name="MadGlitchBlobIdle0005" x="0" y="806" width="386" height="398" frameX="-2" frameY="-13" frameWidth="390" frameHeight="411"/>
+	<SubTexture name="MadGlitchBlobIdle0006" x="386" y="806" width="362" height="390" frameX="-14" frameY="-20" frameWidth="390" frameHeight="411"/>
+	<SubTexture name="MadGlitchBlobIdle0007" x="748" y="806" width="390" height="410" frameX="0" frameY="0" frameWidth="390" frameHeight="411"/>
+	<SubTexture name="MadGlitchBlobLeft0000" x="1138" y="806" width="345" height="361" frameX="-22" frameY="-17" frameWidth="383" frameHeight="378"/>
+	<SubTexture name="MadGlitchBlobLeft0001" x="1483" y="806" width="375" height="378" frameX="-8" frameY="0" frameWidth="383" frameHeight="378"/>
+	<SubTexture name="MadGlitchBlobLeft0002" x="1858" y="806" width="346" height="365" frameX="0" frameY="-13" frameWidth="383" frameHeight="378"/>
+	<SubTexture name="MadGlitchBlobRight0000" x="2204" y="806" width="356" height="379" frameX="0" frameY="-9" frameWidth="379" frameHeight="388"/>
+	<SubTexture name="MadGlitchBlobRight0001" x="2560" y="806" width="366" height="388" frameX="-13" frameY="0" frameWidth="379" frameHeight="388"/>
+	<SubTexture name="MadGlitchBlobUp0000" x="2926" y="806" width="360" height="379" frameX="-14" frameY="-36" frameWidth="391" frameHeight="416"/>
+	<SubTexture name="MadGlitchBlobUp0001" x="3286" y="806" width="375" height="394" frameX="-8" frameY="-22" frameWidth="391" frameHeight="416"/>
+	<SubTexture name="MadGlitchBlobUp0002" x="3661" y="806" width="391" height="416"/>
+</TextureAtlas>

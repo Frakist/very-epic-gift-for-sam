@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SamSprites.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SamDown0000" x="0" y="0" width="388" height="320" frameX="0" frameY="-8" frameWidth="396" frameHeight="337"/>
+	<SubTexture name="SamDown0001" x="388" y="0" width="396" height="337"/>
+	<SubTexture name="SamDown0002" x="784" y="0" width="391" height="325" frameX="0" frameY="-6" frameWidth="396" frameHeight="337"/>
+	<SubTexture name="SamIdle0000" x="1175" y="0" width="380" height="324" frameX="-21" frameY="-21" frameWidth="426" frameHeight="375"/>
+	<SubTexture name="SamIdle0001" x="1555" y="0" width="400" height="343" frameX="-13" frameY="-16" frameWidth="426" frameHeight="375"/>
+	<SubTexture name="SamIdle0002" x="0" y="343" width="416" height="362" frameX="-5" frameY="-6" frameWidth="426" frameHeight="375"/>
+	<SubTexture name="SamIdle0003" x="416" y="343" width="426" height="375"/>
+	<SubTexture name="SamLeft0000" x="842" y="343" width="380" height="320" frameX="-5" frameY="-3" frameWidth="393" frameHeight="335"/>
+	<SubTexture name="SamLeft0001" x="1222" y="343" width="384" height="325" frameX="-1" frameY="-3" frameWidth="393" frameHeight="335"/>
+	<SubTexture name="SamLeft0002" x="1606" y="343" width="393" height="335"/>
+	<SubTexture name="SamRight0000" x="0" y="718" width="380" height="320" frameX="-6" frameY="-6" frameWidth="392" frameHeight="333"/>
+	<SubTexture name="SamRight0001" x="380" y="718" width="392" height="333"/>
+	<SubTexture name="SamRight0002" x="772" y="718" width="384" height="322" frameX="-6" frameY="-5" frameWidth="392" frameHeight="333"/>
+	<SubTexture name="SamUp0000" x="1156" y="718" width="380" height="320" frameX="-5" frameY="-5" frameWidth="390" frameHeight="331"/>
+	<SubTexture name="SamUp0001" x="1536" y="718" width="390" height="331"/>
+	<SubTexture name="SamUp0002" x="0" y="1051" width="383" height="320" frameX="-2" frameY="-5" frameWidth="390" frameHeight="331"/>
+</TextureAtlas>

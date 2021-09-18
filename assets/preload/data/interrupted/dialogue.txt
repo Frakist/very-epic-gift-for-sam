@@ -1,0 +1,11 @@
+[178[ [255[ [255[ [255[ |sexy music| *100* =1= #normalbox#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~dialogueConfirm~
+:sam: !sussyd! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      Eh? Who are you? And how did you get here
+:bf: !default! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      beep
+:sam: !sussyd! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      Rap Battle?
+:sam: !sad! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      I'm not that good of a singer...
+:bf: !default! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      Beep bap!
+:sam: !default! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      You really think so?
+:sam: !sussyd! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      Well, still I don't feel like i'll do good...
+:sam: !default! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      we can draw some thing if you want though!
+:bf: !default! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      BEEP!
+:sam: !waoh! [Berlin Sans FB[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #normalbox# ^pixelText^ !#FF000000! ?#FF232323? .. ~~      ALRIGHT ALRIGHT I'LL SING DAMN IT!

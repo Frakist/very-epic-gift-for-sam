@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SamOnslaughtSprites.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SamOnslaughtDown0000" x="0" y="0" width="380" height="314" frameX="-9" frameY="-3" frameWidth="399" frameHeight="317"/>
+	<SubTexture name="SamOnslaughtDown0001" x="380" y="0" width="399" height="315" frameX="0" frameY="0" frameWidth="399" frameHeight="317"/>
+	<SubTexture name="SamOnslaughtDown0002" x="779" y="0" width="383" height="296" frameX="-8" frameY="-18" frameWidth="399" frameHeight="317"/>
+	<SubTexture name="SamOnslaughtIdle0000" x="1162" y="0" width="422" height="326" frameX="-2" frameY="-9" frameWidth="430" frameHeight="338"/>
+	<SubTexture name="SamOnslaughtIdle0001" x="1584" y="0" width="396" height="306" frameX="-22" frameY="-29" frameWidth="430" frameHeight="338"/>
+	<SubTexture name="SamOnslaughtIdle0002" x="0" y="326" width="428" height="336" frameX="0" frameY="0" frameWidth="430" frameHeight="338"/>
+	<SubTexture name="SamOnslaughtIdle0003" x="428" y="326" width="386" height="304" frameX="-32" frameY="-32" frameWidth="430" frameHeight="338"/>
+	<SubTexture name="SamOnslaughtIdle0004" x="814" y="326" width="417" height="326" frameX="-13" frameY="-11" frameWidth="430" frameHeight="338"/>
+	<SubTexture name="SamOnslaughtIdle0005" x="1231" y="326" width="393" height="308" frameX="-28" frameY="-29" frameWidth="430" frameHeight="338"/>
+	<SubTexture name="SamOnslaughtIdle0006" x="1624" y="326" width="411" height="327" frameX="-13" frameY="-11" frameWidth="430" frameHeight="338"/>
+	<SubTexture name="SamOnslaughtIdle0007" x="0" y="662" width="392" height="310" frameX="-25" frameY="-28" frameWidth="430" frameHeight="338"/>
+	<SubTexture name="SamOnslaughtIdle0008" x="392" y="662" width="411" height="326" frameX="-13" frameY="-12" frameWidth="430" frameHeight="338"/>
+	<SubTexture name="SamOnslaughtIdle0009" x="803" y="662" width="392" height="310" frameX="-25" frameY="-28" frameWidth="430" frameHeight="338"/>
+	<SubTexture name="SamOnslaughtLeft0000" x="1195" y="662" width="386" height="319" frameX="-16" frameY="-20" frameWidth="406" frameHeight="339"/>
+	<SubTexture name="SamOnslaughtLeft0001" x="1581" y="662" width="400" height="339" frameX="-6" frameY="0" frameWidth="406" frameHeight="339"/>
+	<SubTexture name="SamOnslaughtLeft0002" x="0" y="1001" width="390" height="319" frameX="0" frameY="-20" frameWidth="406" frameHeight="339"/>
+	<SubTexture name="SamOnslaughtRight0000" x="390" y="1001" width="380" height="317" frameX="-5" frameY="-28" frameWidth="411" frameHeight="345"/>
+	<SubTexture name="SamOnslaughtRight0001" x="770" y="1001" width="411" height="345"/>
+	<SubTexture name="SamOnslaughtRight0002" x="1181" y="1001" width="389" height="324" frameX="-21" frameY="-21" frameWidth="411" frameHeight="345"/>
+	<SubTexture name="SamOnslaughtUp0000" x="1570" y="1001" width="380" height="322" frameX="-37" frameY="-43" frameWidth="425" frameHeight="370"/>
+	<SubTexture name="SamOnslaughtUp0001" x="0" y="1346" width="406" height="349" frameX="-16" frameY="-20" frameWidth="425" frameHeight="370"/>
+	<SubTexture name="SamOnslaughtUp0002" x="406" y="1346" width="425" height="370"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DemonSamSprites.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DemonSamDown0000" x="0" y="0" width="1053" height="927" frameX="0" frameY="-2" frameWidth="1096" frameHeight="940"/>
+	<SubTexture name="DemonSamDown0001" x="1053" y="0" width="1075" height="918" frameX="-4" frameY="-5" frameWidth="1096" frameHeight="940"/>
+	<SubTexture name="DemonSamDown0002" x="2128" y="0" width="1094" height="940" frameX="-2" frameY="0" frameWidth="1096" frameHeight="940"/>
+	<SubTexture name="DemonSamIdle0000" x="3222" y="0" width="929" height="817" frameX="-71" frameY="-112" frameWidth="1048" frameHeight="935"/>
+	<SubTexture name="DemonSamIdle0001" x="4151" y="0" width="969" height="842" frameX="-51" frameY="-87" frameWidth="1048" frameHeight="935"/>
+	<SubTexture name="DemonSamIdle0002" x="5120" y="0" width="977" height="861" frameX="-47" frameY="-69" frameWidth="1048" frameHeight="935"/>
+	<SubTexture name="DemonSamIdle0003" x="6097" y="0" width="995" height="874" frameX="-38" frameY="-56" frameWidth="1048" frameHeight="935"/>
+	<SubTexture name="DemonSamIdle0004" x="7092" y="0" width="1000" height="890" frameX="-32" frameY="-42" frameWidth="1048" frameHeight="935"/>
+	<SubTexture name="DemonSamIdle0005" x="0" y="940" width="1032" height="913" frameX="-16" frameY="-19" frameWidth="1048" frameHeight="935"/>
+	<SubTexture name="DemonSamIdle0006" x="1032" y="940" width="1043" height="935" frameX="0" frameY="0" frameWidth="1048" frameHeight="935"/>
+	<SubTexture name="DemonSamIdle0007" x="1032" y="940" width="1043" height="935" frameX="0" frameY="0" frameWidth="1048" frameHeight="935"/>
+	<SubTexture name="DemonSamLeft0000" x="2075" y="940" width="929" height="878" frameX="-53" frameY="-23" frameWidth="990" frameHeight="901"/>
+	<SubTexture name="DemonSamLeft0001" x="3004" y="940" width="965" height="901" frameX="-25" frameY="0" frameWidth="990" frameHeight="901"/>
+	<SubTexture name="DemonSamLeft0002" x="3969" y="940" width="955" height="894" frameX="0" frameY="-7" frameWidth="990" frameHeight="901"/>
+	<SubTexture name="DemonSamRight0000" x="4924" y="940" width="929" height="882" frameX="-12" frameY="-55" frameWidth="1010" frameHeight="937"/>
+	<SubTexture name="DemonSamRight0001" x="5853" y="940" width="976" height="913" frameX="-1" frameY="-24" frameWidth="1010" frameHeight="937"/>
+	<SubTexture name="DemonSamRight0002" x="6829" y="940" width="1010" height="937"/>
+	<SubTexture name="DemonSamUp0000" x="0" y="1877" width="1003" height="930" frameX="-78" frameY="-97" frameWidth="1100" frameHeight="1029"/>
+	<SubTexture name="DemonSamUp0001" x="1003" y="1877" width="1053" height="984" frameX="-36" frameY="-45" frameWidth="1100" frameHeight="1029"/>
+	<SubTexture name="DemonSamUp0002" x="2056" y="1877" width="1100" height="1028" frameX="0" frameY="0" frameWidth="1100" frameHeight="1029"/>
+</TextureAtlas>

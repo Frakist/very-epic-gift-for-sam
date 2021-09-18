@@ -1,0 +1,6 @@
+idle 0 0
+singUP 4 68
+singRIGHT -35 15
+singLEFT 61 16
+singDOWN -11 -6
+angry 0 0
